@@ -1,7 +1,7 @@
 # Исследование рынка заведений общественного питания Москвы
 
 [ipynb](p11_catering_research.ipynb)\
-[HTML](http://htmlpreview.github.io/?https://github.com/ilyaapa/practicum_portfolio/blob/main/Catering%20Research/p11_catering_research.html)
+[HTML](http://htmlpreview.github.io/?https://github.com/ilyaapa/portfolio/blob/main/Catering%20Research/p11_catering_research.html)
 
 ## Описание проекта
 

@@ -1,7 +1,7 @@
 # Анализ оттока клиентов банка
 
 [ipynb](p13_customer_churn.ipynb)\
-[HTML](http://htmlpreview.github.io/?https://github.com/ilyaapa/practicum_projects/blob/main/p13_customer_churn/p13_customer_churn.html)
+[HTML](http://htmlpreview.github.io/?https://github.com/ilyaapa/portfolio/blob/main/Customer%20Churn/p13_customer_churn.html)
 
 ## Описание проекта
 
